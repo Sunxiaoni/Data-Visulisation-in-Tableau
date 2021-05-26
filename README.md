@@ -1,6 +1,6 @@
 # Data-Visulisation-in-Tableau
 
-### Here, I will share the data visulisation dashboards which I have implemented in Tableau, please open with laptop.
+##### Here, I will share the data visulisation dashboards which I have implemented in Tableau, please open with laptop.
 
 ## Dashboard 1: Impact of COVID-19 on London airbnb market
 
